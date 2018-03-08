@@ -1,1 +1,3 @@
 To jest mój drugi plik
+
+To bedzie widac tylko w branchu mastera
